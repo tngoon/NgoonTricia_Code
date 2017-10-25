@@ -1,3 +1,5 @@
+#combine multiple csvs into a single csv
+
 import numpy as py
 import pandas as pd
 import glob
